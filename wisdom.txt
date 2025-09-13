@@ -1,0 +1,7 @@
+//stack using linked list
+//The new keyword in C++ dynamically allocates memory on the heap and returns the address of that memory. 
+//You then usually store this address in a pointer.
+//new will alocate the varibale address on heap and by doing int*y=&x will allocate on stack
+//for the object to access the data member in case of dynamic allocation we need "->" to access it 
+//linked list the node stores the data of the first varibale and contain the memory address of second vaiable
+//he -> operator is used to access members (data or functions) of an object through a pointer.
